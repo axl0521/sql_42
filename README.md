@@ -34,7 +34,7 @@ El curso de SQL Server tiene como propósito práctico que el estudiante compren
 
 
 
-..### #Clase 01.. 
+### #Clase 01
 Modelado de base de datos relacionales donde haremos un diagrama entidad relación para una base de datos de encuestas como los formularios de Google Meet.
 
 [![](https://i.stack.imgur.com/64uOK.jpg)](https://i.stack.imgur.com/64uOK.jpg)
@@ -89,11 +89,25 @@ Una consulta sirve para extraer información de una base de datos. También perm
 [![](https://www.campusmvp.es/recursos/image.axd?picture=SQL-Funciones-Escalares.png)](https://www.campusmvp.es/recursos/image.axd?picture=SQL-Funciones-Escalares.png)
 
 ### #Clase 08
+**Triggers** Un disparador o trigger es una funcionalidad que la base de datos ejecuta de forma automática cuando se realiza una operación de tipo Insert, Update o Delete en una tabla o vista, o cuando se ejecuta una consulta SQL sobre una tabla o vista
+
+[![](https://static.javatpoint.com/sqlserver/images/triggers-in-sql-server11.png)](https://static.javatpoint.com/sqlserver/images/triggers-in-sql-server11.png)
 
 
 ### #Clase 09
+**SQL PIVOT** Sirve para realziar transformaciones de datos.
+
+[![](https://www.inesem.es/revistadigital/informatica-y-tics/files/2015/06/inesem-pivot-unpivot1.png)](https://www.inesem.es/revistadigital/informatica-y-tics/files/2015/06/inesem-pivot-unpivot1.png)
 
 
 ### #Clase 010
+**Instrucción MERGE** permite insertar, actualizar o eliminar operaciones en una tabla de destino a partir de los resultados de una combinación con una tabla de origen.
+
+[![](https://www.sqlservertutorial.net/wp-content/uploads/SQL-Server-MERGE-Example.png)](https://www.sqlservertutorial.net/wp-content/uploads/SQL-Server-MERGE-Example.png)
+
+### #Clase 11
+**ADO.NET** es un conjunto de componentes del software que pueden ser usados por los programadores para acceder a datos y a servicios de datos.
+
+[![](https://1.bp.blogspot.com/-GzSFJNNnQHQ/XmgftdE1dAI/AAAAAAAAA6k/44Eh5m1MX-0-QG8q2P8fY2iz8bSzKO1QwCLcBGAsYHQ/s640/20200310_191518_0000.png)](https://1.bp.blogspot.com/-GzSFJNNnQHQ/XmgftdE1dAI/AAAAAAAAA6k/44Eh5m1MX-0-QG8q2P8fY2iz8bSzKO1QwCLcBGAsYHQ/s640/20200310_191518_0000.png)
 
 
