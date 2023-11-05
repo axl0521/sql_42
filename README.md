@@ -25,11 +25,10 @@ El curso de SQL Server tiene como propósito práctico que el estudiante compren
 * [Clase 11](#Clase-11)
 
 
-
-
-
-
-
+#
+#
+#
+#
 
 
 
