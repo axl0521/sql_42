@@ -34,7 +34,7 @@ El curso de SQL Server tiene como propósito práctico que el estudiante compren
 
 
 
-### #Clase 01
+..### #Clase 01.. 
 Modelado de base de datos relacionales donde haremos un diagrama entidad relación para una base de datos de encuestas como los formularios de Google Meet.
 
 [![](https://i.stack.imgur.com/64uOK.jpg)](https://i.stack.imgur.com/64uOK.jpg)
