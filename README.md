@@ -36,7 +36,7 @@ El curso de SQL Server tiene como propósito práctico que el estudiante compren
 
 ### #Clase 01
 Modelado de base de datos relacionales donde haremos un diagrama entidad relación para una base de datos de encuestas como los formularios de Google Meet.
-
+[![](https://i.stack.imgur.com/64uOK.jpg)](https://i.stack.imgur.com/64uOK.jpg)
 
 ### #Clase 02
 Los comandos SQL ordenan a un sistema de gestión de bases de datos (DBMS por sus siglas en inglés: Database Management Systems) que realice determinadas acciones. Esto incluye definir tablas y sus estructuras, así como introducir, modificar y eliminar datos y ejecutar consultas
