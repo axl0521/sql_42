@@ -3,16 +3,18 @@ El curso de SQL Server tiene como propósito práctico que el estudiante compren
 
 ## CLASES
 * [Clase 01](#Clase-01)
-* [Clase02](#Clase02)
-* [Clase03](#Clase03)
-* [Clase04](#Clase04)
-* [Clase05](#Clase05)
-* [Clase06](#Clase06)
-* [Clase07](#Clase07)
-* [Clase08](#Clase08)
-* [Clase09](#Clase09)
-* [Clase10](#Clase10)
-* [Clase11](#Clase11)
+  
+* [Clase 02](#Clase-02)
+  
+* [Clase 03](#Clase-03)
+* [Clase 04](#Clase-04)
+* [Clase 05](#Clase-05)
+* [Clase 06](#Clase-06)
+* [Clase 07](#Clase-07)
+* [Clase 08](#Clase-08)
+* [Clase 09](#Clase-09)
+* [Clase 10](#Clase-10)
+* [Clase 11](#Clase-11)
 
 
 
