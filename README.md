@@ -40,3 +40,24 @@ Modelado de base de datos relacionales donde haremos un diagrama entidad relaci�
 
 ### #Clase 02
 Los comandos SQL ordenan a un sistema de gestión de bases de datos (DBMS por sus siglas en inglés: Database Management Systems) que realice determinadas acciones. Esto incluye definir tablas y sus estructuras, así como introducir, modificar y eliminar datos y ejecutar consultas
+[![](https://sqlserverdb.com/wp-content/uploads/2022/01/comandos-sql-server1.png)](https://sqlserverdb.com/wp-content/uploads/2022/01/comandos-sql-server1.png)
+
+### #Clase 03
+Una consulta sirve para extraer información de una base de datos. También permite manipular datos como: agregar, eliminar y cambiar.
+[![](https://sqlserverdb.com/wp-content/uploads/2023/01/sql-consultas.jpg)](https://sqlserverdb.com/wp-content/uploads/2023/01/sql-consultas.jpg)
+
+### #Clase 04
+**Consulta de campos calculados** es una opción que se basa en una consulta de selección y que permite observar en la vista de hoja de datos, cuando se ejecuta la consulta, un cálculo matemático que se puede basar a partir de campos que existan en una tabla
+
+**Consulta con funciones de agregado** Realiza un cálculo sobre un conjunto de valores y devuelve un solo valor. Con la excepción de COUNT(*) , las funciones de agregado ignoran los valores NULL
+
+**consulta dinamicas** proporciona memorias caché de datos que optimizan el rendimiento de informes y reducen la carga en los orígenes de datos soportados.
+
+[![](https://www.campusmvp.es/recursos/image.axd?picture=Valores-Agregados-SQL-Ej1.png)](https://www.campusmvp.es/recursos/image.axd?picture=Valores-Agregados-SQL-Ej1.png)
+
+
+
+
+
+
+
