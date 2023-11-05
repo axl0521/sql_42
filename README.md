@@ -55,9 +55,34 @@ Una consulta sirve para extraer información de una base de datos. También perm
 
 [![](https://www.campusmvp.es/recursos/image.axd?picture=Valores-Agregados-SQL-Ej1.png)](https://www.campusmvp.es/recursos/image.axd?picture=Valores-Agregados-SQL-Ej1.png)
 
+### #Clase 05
+**Vistas en SQL** Una vista es una tabla virtual cuyo contenido está definido por una consulta. Al igual que una tabla, una vista consta de un conjunto de columnas y filas de datos con un nombre
+
+**Joins en SQL** La sentencia permite combinar registros de una o más tablas en una base de datos. En el Lenguaje de Consultas Estructurado (SQL) hay tres tipos de JOIN: interno, externo y cruzado
+
+[![](https://soportecds.files.wordpress.com/2013/11/view.png)](https://soportecds.files.wordpress.com/2013/11/view.png)
+
+### #Clase 06
+**Estructuras Condicionales** Una condición de búsqueda especifica una condición que es verdadera, falsa o desconocida sobre una fila o un grupo determinados.
+[![](https://tutorialesdeaplicaciones.com/wp-content/uploads/2020/03/Untitled-Diagram-Page-2-1.png)](https://tutorialesdeaplicaciones.com/wp-content/uploads/2020/03/Untitled-Diagram-Page-2-1.png)
+
+**Estructuras repetitivas** on aquellas que permiten ejecutar un conjunto de instrucciones varias veces, de acuerdo al valor que genere la expresión relacional y/o lógica
+[![](https://www.uacj.mx/CGTI/CDTE/JPM/Documents/IIT/repetitivas/images/iit-er-17.jpg)](https://www.uacj.mx/CGTI/CDTE/JPM/Documents/IIT/repetitivas/images/iit-er-17.jpg)
+
+### #Clase 07
+**Funciones** Una función de SQL se define en la base de datos sólo a través de sentencias SQL, incluida, como mínimo, una sentencia RETURN. Puede devolver un valor escalar, una fila o una tabla. Las funciones SQL no pueden ser funciones agregadas. Veremos lo siguiente
+	- Funciones de cadena de texto - limpieza de datos
+ 	- Funciones de fecha y hora
+	- Union de funciones
+
+[![](https://www.campusmvp.es/recursos/image.axd?picture=SQL-Funciones-Escalares.png)](https://www.campusmvp.es/recursos/image.axd?picture=SQL-Funciones-Escalares.png)
+
+### #Clase 08
 
 
+### #Clase 09
 
 
+### #Clase 010
 
 
