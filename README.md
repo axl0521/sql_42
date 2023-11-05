@@ -1,7 +1,7 @@
 # CURSO DE MS SQL SERVER EDICION 42
 El curso de SQL Server tiene como propósito práctico que el estudiante comprenda el lenguaje SQL y sea capaz de implementar los objetos de una base de datos definida en el modelamiento de la base de datos.
 
-[![](https://sqlspreads.com/wp-content/uploads/SQL_Server_Import_and_Export_Wizard.png)](https://sqlspreads.com/wp-content/uploads/SQL_Server_Import_and_Export_Wizard.png)
+[![](https://assets.openshift.com/hubfs/Imported_Blog_Media/sql-server-2019.png)](https://assets.openshift.com/hubfs/Imported_Blog_Media/sql-server-2019.png)
 
 ## CLASES
 * [Clase 01](#Clase-01)
