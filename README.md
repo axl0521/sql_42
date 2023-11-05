@@ -27,12 +27,6 @@ El curso de SQL Server tiene como propósito práctico que el estudiante compren
 
 #
 #
-#
-#
-
-
-
-
 
 
 
