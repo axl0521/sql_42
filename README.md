@@ -36,15 +36,21 @@ El curso de SQL Server tiene como propósito práctico que el estudiante compren
 
 ### #Clase 01
 Modelado de base de datos relacionales donde haremos un diagrama entidad relación para una base de datos de encuestas como los formularios de Google Meet.
+
 [![](https://i.stack.imgur.com/64uOK.jpg)](https://i.stack.imgur.com/64uOK.jpg)
+
 
 ### #Clase 02
 Los comandos SQL ordenan a un sistema de gestión de bases de datos (DBMS por sus siglas en inglés: Database Management Systems) que realice determinadas acciones. Esto incluye definir tablas y sus estructuras, así como introducir, modificar y eliminar datos y ejecutar consultas
+
 [![](https://sqlserverdb.com/wp-content/uploads/2022/01/comandos-sql-server1.png)](https://sqlserverdb.com/wp-content/uploads/2022/01/comandos-sql-server1.png)
+
 
 ### #Clase 03
 Una consulta sirve para extraer información de una base de datos. También permite manipular datos como: agregar, eliminar y cambiar.
+
 [![](https://sqlserverdb.com/wp-content/uploads/2023/01/sql-consultas.jpg)](https://sqlserverdb.com/wp-content/uploads/2023/01/sql-consultas.jpg)
+
 
 ### #Clase 04
 **Consulta de campos calculados** es una opción que se basa en una consulta de selección y que permite observar en la vista de hoja de datos, cuando se ejecuta la consulta, un cálculo matemático que se puede basar a partir de campos que existan en una tabla
@@ -55,6 +61,7 @@ Una consulta sirve para extraer información de una base de datos. También perm
 
 [![](https://www.campusmvp.es/recursos/image.axd?picture=Valores-Agregados-SQL-Ej1.png)](https://www.campusmvp.es/recursos/image.axd?picture=Valores-Agregados-SQL-Ej1.png)
 
+
 ### #Clase 05
 **Vistas en SQL** Una vista es una tabla virtual cuyo contenido está definido por una consulta. Al igual que una tabla, una vista consta de un conjunto de columnas y filas de datos con un nombre
 
@@ -62,18 +69,22 @@ Una consulta sirve para extraer información de una base de datos. También perm
 
 [![](https://soportecds.files.wordpress.com/2013/11/view.png)](https://soportecds.files.wordpress.com/2013/11/view.png)
 
+
 ### #Clase 06
 **Estructuras Condicionales** Una condición de búsqueda especifica una condición que es verdadera, falsa o desconocida sobre una fila o un grupo determinados.
+
 [![](https://tutorialesdeaplicaciones.com/wp-content/uploads/2020/03/Untitled-Diagram-Page-2-1.png)](https://tutorialesdeaplicaciones.com/wp-content/uploads/2020/03/Untitled-Diagram-Page-2-1.png)
 
 **Estructuras repetitivas** on aquellas que permiten ejecutar un conjunto de instrucciones varias veces, de acuerdo al valor que genere la expresión relacional y/o lógica
+
 [![](https://www.uacj.mx/CGTI/CDTE/JPM/Documents/IIT/repetitivas/images/iit-er-17.jpg)](https://www.uacj.mx/CGTI/CDTE/JPM/Documents/IIT/repetitivas/images/iit-er-17.jpg)
+
 
 ### #Clase 07
 **Funciones** Una función de SQL se define en la base de datos sólo a través de sentencias SQL, incluida, como mínimo, una sentencia RETURN. Puede devolver un valor escalar, una fila o una tabla. Las funciones SQL no pueden ser funciones agregadas. Veremos lo siguiente
-	- Funciones de cadena de texto - limpieza de datos
- 	- Funciones de fecha y hora
-	- Union de funciones
+* Funciones de cadena de texto - limpieza de datos
+* Funciones de fecha y hora
+* Union de funciones
 
 [![](https://www.campusmvp.es/recursos/image.axd?picture=SQL-Funciones-Escalares.png)](https://www.campusmvp.es/recursos/image.axd?picture=SQL-Funciones-Escalares.png)
 
